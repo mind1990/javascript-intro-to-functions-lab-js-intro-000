@@ -19,5 +19,7 @@ function sayHiToGrandma(string) {
   switch(string) {
     case string.toLowerCase():
     return "I can't hear you!"
+    case string.toUpperCase():
+    return "YES INDEED!"
   }
 }
