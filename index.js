@@ -22,6 +22,6 @@ function sayHiToGrandma(string) {
     case string.toUpperCase():
     return "YES INDEED!"
     default:
-    return "I love you, too"
+    return "I love you, too."
   }
 }
