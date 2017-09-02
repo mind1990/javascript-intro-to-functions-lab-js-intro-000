@@ -18,5 +18,5 @@ function logWhisper(string) {
 function sayHiToGrandma(string) {
   switch(string) {
     case "hello":
-    return "I can\'t hear you!"
+    return "I can't hear you!"
   }
